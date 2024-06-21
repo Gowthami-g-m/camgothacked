@@ -34,6 +34,7 @@ apt-get -y install php openssh git wget
 ```
 git clone https://github.com/Gowthami-g-m/camgothacked
 cd camgothacked
+chmod +x *
 bash camgothacked.sh
 ```
 
